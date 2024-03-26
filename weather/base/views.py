@@ -9,7 +9,7 @@ def index(request):
     err_msg = ''
     message = ''
     message_class = ''
-    api_key = 'ENTER YOUR API'
+    api_key = '10a06d70cb06690c81d371bec080608c'
     
     
 
